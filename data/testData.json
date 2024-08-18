@@ -1,0 +1,18 @@
+{
+  "flights": [
+    {
+      "fromPlace": "New York",
+      "toPlace": "Sydney",
+      "dateFrom": "today",
+      "dateTo": "today+7",
+      "numberOfGuests": 3
+    },
+    {
+      "fromPlace": "Boston",
+      "toPlace": "Amsterdam",
+      "dateFrom": "today+10",
+      "dateTo": "today+30",
+      "numberOfGuests": 5
+    }
+  ]
+}
