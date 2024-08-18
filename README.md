@@ -1,5 +1,5 @@
 #Documentation
-Efforts to Solve CAPTCHA Issue in Skyscanner Automation
+:Efforts to Solve CAPTCHA Issue in Skyscanner Automation
 
 1. Introduction
 During the automation of the Skyscanner website using Playwright, I encountered persistent CAPTCHA challenges that obstructed the execution of my test cases. This document outlines the approaches I employed to solve the CAPTCHA issue, the challenges faced, and the outcomes.
